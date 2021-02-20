@@ -1,0 +1,360 @@
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll.config
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.pdb
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe.config
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.rsp
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe.config
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.rsp
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Console.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe.config
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.rsp
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\WebGrease.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CopyComplete
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.dll
+C:\Users\Acer\source\repos\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.pdb
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.pdb
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.rsp
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.rsp
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.AppContext.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Console.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Http.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Sockets.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.ValueTuple.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.rsp
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\WebGrease.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.pdb
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll.config
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.pdb
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.xml
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csprojAssemblyReference.cache
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CoreCompileInputs.cache
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CopyComplete
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.dll
+E:\New folder (2)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.pdb
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.pdb
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.rsp
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.rsp
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.AppContext.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Console.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Http.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Sockets.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.ValueTuple.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.rsp
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\WebGrease.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.pdb
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll.config
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.pdb
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.xml
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csprojAssemblyReference.cache
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CoreCompileInputs.cache
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CopyComplete
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.dll
+E:\New folder (2)\BackUp\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.pdb
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\ASP.NET_API_MVC.pdb
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.exe.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csc.rsp
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.exe.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\csi.rsp
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.AppContext.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Console.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Http.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Net.Sockets.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.ValueTuple.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.exe.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\vbc.rsp
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\WebGrease.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.pdb
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\API.dll.config
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\EntityFramework.SqlServer.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Net.Http.Formatting.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Helpers.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Mvc.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Optimization.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Razor.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.WebPages.Razor.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Newtonsoft.Json.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Antlr3.Runtime.pdb
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\Dapper.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\bin\System.Web.Http.WebHost.xml
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csprojAssemblyReference.cache
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CoreCompileInputs.cache
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.csproj.CopyComplete
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.dll
+D:\New folder (3)\ASP.NET_API_MVC\ASP.NET_API_MVC\obj\Debug\ASP.NET_API_MVC.pdb
